@@ -1,0 +1,14 @@
+[Adblock Plus 2.0]
+! Title: UyList
+! Last modified: 25 Sep 2017 10:00 UTC
+! Expires: 10 days (update frequency)
+! Homepage: https://github.com/narrowfail/UyList
+! Licence: https://raw.githubusercontent.com/narrowfail/UyList/master/LICENSE
+!
+! Please report any unblocked adverts or problems!
+! GitHub issues: https://github.com/narrowfail/UyList/issues
+! GitHub pull requests: https://github.com/narrowfail/UyList/pulls
+! 
+! -----------------------General advert blocking filters-----------------------!
+||sc.diarioelpais.com/javascripts/lib/fancybox/*
+||www.elpais.com.uy/js/epd_sw.js$script,domain=www.elpais.com.uy
