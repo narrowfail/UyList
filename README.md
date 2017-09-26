@@ -12,6 +12,10 @@ TODO
 2. Automatically compile and verify list (FOB.py).
 3. Continuous Integration (Travis)
 
+Why English?
+============
+To keep this project international (might be beneficial when asking for help).
+
 Contributing
 ============
 
