@@ -11,3 +11,6 @@
 ! 
 ! -----------------------General advert blocking filters-----------------------!
 ||sc2.elpais.com.uy/bundles/elpaiscms/evolok/*$script,domain=elpais.com.uy|ovaciondigital.com.uy|tvshow.com.uy
+||elobservador.com.uy##.mensaje_paywall2
+||elobservador.com.uy##.fade:style(max-height: none !important; position: static !important)
+||elobservador.com.uy##.fade::before:style(position: static !important)
