@@ -14,3 +14,5 @@
 ||elobservador.com.uy##.mensaje_paywall2
 ||elobservador.com.uy##.fade:style(max-height: none !important; position: static !important)
 ||elobservador.com.uy##.fade::before:style(position: static !important)
+elpais.com.uy##.contenido-exclusivo-nota
+elpais.com.uy##.content-modules:style(display: block !important;)
