@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: UyList
-! Last modified: 29 Nov 2017 15:00 UTC
+! Last modified: 24 Mar 2020 11:55 UTC
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/narrowfail/UyList
 ! Licence: https://raw.githubusercontent.com/narrowfail/UyList/master/LICENSE
