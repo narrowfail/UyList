@@ -16,3 +16,6 @@
 ||elobservador.com.uy##.fade::before:style(position: static !important)
 elpais.com.uy##.contenido-exclusivo-nota
 elpais.com.uy##.content-modules:style(display: block !important;)
+//elp.evolok.net/*
+https//elp.evolok.net/*
+https://sc2.elpais.com.uy/v-1597329030/js/service-workers.js
